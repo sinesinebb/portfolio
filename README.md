@@ -4,6 +4,8 @@ Portfolio personnel : **Nuxt 3 + Tailwind CSS** (frontend, SSR) et **Django + Dj
 Tout le contenu (profil, compétences, expériences, projets, formations, certifications, langues) est stocké
 en base et modifiable depuis l'admin Django — aucune modification de code nécessaire pour mettre à jour le site.
 
+![Aperçu de la page d'accueil](docs/apercu-accueil.png)
+
 ```
 portfolio/
 ├── backend/            Django + DRF
